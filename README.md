@@ -92,8 +92,8 @@ The project analyzes solar irradiance data from:
 
 ### Task 3: Cross-Country Comparison
 
--   [ ] Statistical comparisons (`compare-countries` branch)
--   [ ] Business insights and recommendations
+-   [x] Statistical comparisons (`compare-countries` branch)
+-   [x] Business insights and recommendations
 
 ### Task 4: Dashboard (Bonus)
 
