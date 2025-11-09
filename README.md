@@ -87,7 +87,7 @@ The project analyzes solar irradiance data from:
 ### Task 2: Individual Country EDA
 
 -   [x] Benin EDA (`eda-benin` branch)
--   [ ] Sierra Leone EDA (`eda-sierra-leone` branch)
+-   [x] Sierra Leone EDA (`eda-sierra-leone` branch)
 -   [ ] Togo EDA (`eda-togo` branch)
 
 ### Task 3: Cross-Country Comparison
