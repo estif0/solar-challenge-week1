@@ -216,7 +216,10 @@ __marimo__/
 .streamlit/secrets.toml
 
 # Data Folders
-data/
+cleaned/
+raw/
+external/
+!src/data/processed/dashboard_statistics.json  # Exception: Include pre-computed dashboard stats
 datasets/
 outputs/
 results/
